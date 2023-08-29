@@ -7,7 +7,7 @@ h1, h2, h3 , h4, h5, h6 {
   
   .h1title{
     font-family: 'Poppins', sans-serif;
-    color: #FA8A84
+    color: #FF8A84;
     size: 64px;
     font-weight: 300;
     text-align: center;
@@ -22,7 +22,7 @@ h1, h2, h3 , h4, h5, h6 {
     font-size: 48px;
   }
   .elementsicons {
-    height: 70%;
+    height: 90%;
     z-index: 0;
     padding: 0;
   }
@@ -32,11 +32,11 @@ h1, h2, h3 , h4, h5, h6 {
     background-color: #9CBEAF;
   }
 
-  /*.h1doctor{
+  .h1doctor{
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
     color: black;
-  }*/
+  }
   .button-container {
     text-align: center;
     padding: 50px 50px;/* Add padding for vertical centering */
@@ -48,7 +48,7 @@ h1, h2, h3 , h4, h5, h6 {
   }
 
   button {
-    background-color: #FA8A84;
+    background-color: #FACEC2;
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
     font-size: 24px;
@@ -86,7 +86,7 @@ h1, h2, h3 , h4, h5, h6 {
 
   .navCTA {
     font-size: 15px;
-    background-color: #FA8A84;
+    background-color: #FACEC2;
     color: white;
     border: none;
   }
@@ -106,7 +106,7 @@ h1, h2, h3 , h4, h5, h6 {
     object-fit: cover;
     position: absolute;
     z-index: 100;
-    margin-top: -34px;
+    margin-top: -84px;
     margin-left: 10%;
   }
   
@@ -118,7 +118,7 @@ h1, h2, h3 , h4, h5, h6 {
   .colored-rectangle {
     background-color: #9CBEAF;
     width: 100%;
-    height: 535px;
+    height: 435px;
     position: relative;
     z-index: 0;
   }
@@ -175,7 +175,7 @@ span:last-of-type {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    margin-left: 10%;
+    margin-left: 5%;
   }
   
   .mendoctor{
