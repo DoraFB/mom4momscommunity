@@ -7,7 +7,7 @@ h1, h2, h3 , h4, h5, h6 {
   
   .h1title{
     font-family: 'Poppins', sans-serif;
-    color: #FACEC2;
+    color: #FA8A84
     size: 64px;
     font-weight: 300;
     text-align: center;
@@ -48,7 +48,7 @@ h1, h2, h3 , h4, h5, h6 {
   }
 
   button {
-    background-color: #FACEC2;
+    background-color: #FA8A84;
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
     font-size: 24px;
@@ -86,7 +86,7 @@ h1, h2, h3 , h4, h5, h6 {
 
   .navCTA {
     font-size: 15px;
-    background-color: #FACEC2;
+    background-color: #FA8A84;
     color: white;
     border: none;
   }
@@ -157,31 +157,7 @@ span:last-of-type {
     width: 70px;
    }
   
-   /*.colored-rectangle2 {
-    background-color: #9CBEAF;
-    width: 100%;
-    height: 575px;
-    position: relative;
-    z-index: 0;
-  }*/
-
-  
-  /*.colored-rectangle2 {
-    display: flex;
-    justify-content: center;
-    margin-top: 50px;
-  }*/
-  
-  /*.elementsicons2 {
-    height: 100%;
-  }*/
-  
-  
-  /*.elementsicons2 {
-    height: 80%;
-    z-index: 5;
-    padding: 0;
-  }*/
+   
   /*doctor section*/
   .colored-rectangle2{
     background-color: #9CBEAF;
