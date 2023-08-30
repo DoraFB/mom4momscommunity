@@ -55,9 +55,9 @@ h1, h2, h3 , h4, h5, h6 {
     border: none;
     padding: 20px;
   }
-  
+  /* hover bar */
   .customNav .nav-item .nav-link:hover,
-  .customNav .nav-item .nav-link:focus {
+  .customNav .nav-item .nav-link :focus {
     border-bottom: 2px solid #FF8A84;
   }
 
