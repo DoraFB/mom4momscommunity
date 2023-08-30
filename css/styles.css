@@ -107,11 +107,11 @@ h1, h2, h3 , h4, h5, h6 {
   
   .header-image {
     width: auto;
-    height: 603px;
+    height: 580px;
     object-fit: cover;
     position: absolute;
     z-index: 100;
-    margin-top: -84px;
+    margin-top: -72px;
     margin-left: 2%;
   }
   
